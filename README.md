@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farzin</h1>
-- 🌱 I’m currently learning **ReactJs, React Nativ**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **5farzinhamzei@gmail.com**
 
