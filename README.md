@@ -17,3 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farzinzx&show_icons=true&locale=en" alt="farzinzx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farzinzx&" alt="farzinzx" /></p>
+<img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/26d25a7dc705c50943f66aef6beb431253a93cd5/github-contribution-grid-snake.svg"/>
