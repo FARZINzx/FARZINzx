@@ -21,4 +21,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farzinzx&" alt="farzinzx" /></p>
 <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/26d25a7dc705c50943f66aef6beb431253a93cd5/github-contribution-grid-snake.svg"/>
 
-[![](https://visitcount.itsvg.in/api?id=Soheib-Kiani&icon=0&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Farzinzx&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
