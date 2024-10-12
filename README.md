@@ -15,7 +15,7 @@
 <h3 align="left">My Skills:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,html,css,tailwind,bootstrap,sass,js,ts,react,redux,babel,c,figma,firebase,react,nextjs,webpack,postman&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,java,html,md,css,tailwind,materialui,bootstrap,sass,js,ts,react,redux,babel,c,figma,firebase,react,nextjs,webpack,postman&perline=8&theme=dark" />
   </a>
 </p>
 
