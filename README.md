@@ -8,6 +8,7 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/farzinhamzehi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/farzinhamzehi" height="30" width="40" /></a>
 <a href="mailto:5farzinhamzei@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="https://www.youtube.com/@codeeehub" height="40" width="40 /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/farzinzx/" target="lblank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/farzinzx/" height="30" width="40" /></a>
+<a href="https://gitlab.server.hostcontrol.jinora.net/farzin" target="lblank"><img align="center" src="https://images.ctfassets.net/xz1dnu24egyd/1IRkfXmxo8VP2RAE5jiS1Q/ea2086675d87911b0ce2d34c354b3711/gitlab-logo-500.png" alt="https://leetcode.com/farzinzx/" height="60" width="60" /></a>
 </p>
 
 <hr/>
