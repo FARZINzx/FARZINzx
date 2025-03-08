@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farzin</h1>
-<h3 align="center">In my 2 years of frontend development, I've prioritized punctuality and responsibility, consistently meeting project deadlines. Skilled in problem-solving and detail-oriented, I'm enthusiastic about continuos learning and tackling new challenges in this field.</h3>
+<h3 align="center">In my 2.5 years of frontend development, I've prioritized punctuality and responsibility, consistently meeting project deadlines. Skilled in problem-solving and detail-oriented, I'm enthusiastic about continuos learning and tackling new challenges in this field.</h3>
 
 <hr/>
 
